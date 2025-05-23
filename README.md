@@ -1,7 +1,7 @@
 # EWS_Sim
 Creating a lightweight web interface that can run on a device (like a Raspberry Pi) and securely control a bioreactor.
 
-# Core Conceptsd demonstrated in this project:
+# Core Concepts demonstrated in this project:
 Embedded Linux (Ubuntu Server, Raspbian)
 
 Web server frameworks (Flask, FastAPI, Express.js)
