@@ -22,10 +22,10 @@ Creating a lightweight web interface that can run on a device (like a Raspberry 
 - Adding basic authentication (JWT or HTTP Basic)
 
 # Steps I am taking
-- Publish sensor data via MQTT
+- Publishing sensor data via MQTT
 
-- Subscribe and store it in MongoDB
+- Subscribing and storing data in MongoDB
 
-- Expose a secure Flask API to interact with the data
+- Exposing a secure Flask API to interact with the data
 
 - Optionally visualize or control it from a simple UI
